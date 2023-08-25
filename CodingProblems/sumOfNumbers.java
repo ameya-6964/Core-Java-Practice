@@ -16,8 +16,8 @@ package CodingProblems;
 import java.util.Scanner;
 public class sumOfNumbers {
     public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    int number = sc.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int number = sc.nextInt();
         System.out.println(digitAddition(number));
     }
     static int digitAddition(int n){
