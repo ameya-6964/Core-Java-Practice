@@ -1,3 +1,3 @@
 # Time And Space Complexity
 
-![Time And Space.png](..%2F..%2F..%2F..%2F..%2FDesktop%2FTime%20And%20Space.png)
+![Time And Space.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*xq73u1N7ZsTE2MJ9jsj0CA.png)
