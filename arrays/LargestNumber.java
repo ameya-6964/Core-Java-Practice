@@ -17,15 +17,12 @@ public class LargestNumber {
     // Function To Find Maximum Number From Array
     public static int largest(int [] arr){
         int max = Integer.MIN_VALUE;
-        int secondMax = Integer.MIN_VALUE;
         for(int i = 0; i< arr.length ; i++){
            if(arr[i] > max){
-               secondMax = max;
                max = arr[i];
-
            }
         }
-        return secondMax;
+        return max;
     }
     public static void main(String[] args) {
         int arr[] = takeInput();
