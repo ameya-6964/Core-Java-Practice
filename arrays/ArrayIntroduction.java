@@ -26,5 +26,11 @@ public class ArrayIntroduction {
             System.out.println(arr1[i]);
         }
 
+        // Syntax 3 :- Writing Arrays
+        int arr3 []={50,60,70,8,90};
+        for(int i = 0; i< arr3.length ; i++){
+            System.out.println(arr[i]);
+        }
+
     }
 }
