@@ -12,9 +12,12 @@ class Student{
        this.rollNo= rollNo;
    }
    void printDetails(){
-       System.out.println("Name Is :- " + name);
-       System.out.println("Age Is :- " + age);
-       System.out.println("Roll No Is :- " + rollNo);
+       System.out.println("************************");
+       System.out.println("Name Is :- " + this.name);
+       System.out.println("Age Is :- " + this.age);
+       System.out.println("Roll No Is :- " + this.rollNo);
+       System.out.println("This is Pointing To " + this);
+       System.out.println("************************");
    }
 }
 public class Students {
