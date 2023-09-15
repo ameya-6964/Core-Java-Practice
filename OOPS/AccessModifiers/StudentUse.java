@@ -4,8 +4,10 @@ public class StudentUse {
         Student s1 = new Student();
         Student s2 = new Student();
         s1.name = "Ameya From ACCESS MODIFIER";
-        s1.rollNo = 1;
+        s1.setRollNo(1);
         s2.name = "Kunal From ACCESS MODIFIER";
-        s2.rollNo = 3;
+        s2.setRollNo(3);
+        System.out.println(s1.getRollNo());
+        System.out.println(s2.getRollNo());
     }
 }
