@@ -1,8 +1,13 @@
 package Basics;
 
 public class Primitive {
+
+    //* Global Area Or Class Area
+     int a =10;
     public static void main(String[] args) {
-        //Primitives 8 Types
+        //* Local Area Or Method Area
+
+        //? Primitives 8 Types
         //! byte
         byte a = 100;
         System.out.println(a);
@@ -34,5 +39,7 @@ public class Primitive {
         //! boolean
         boolean flag = false;
         System.out.println(flag);
+
+
     }
 }
