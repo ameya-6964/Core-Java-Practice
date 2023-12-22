@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Types;
 
 //This Code Prints Basic "Hello World" Statement
 
