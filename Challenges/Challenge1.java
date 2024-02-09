@@ -15,7 +15,6 @@ Solve Following Patterns
 * * *
 * *
 *
-
  */
 public class Challenge1 {
     static void printRegularStar(int number){
